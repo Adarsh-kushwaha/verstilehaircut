@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+UID:33da29a129ad3641898968382abbf87c
+SUMMARY:Sarathe Haircut - 25 Jul 2020 3:00pm
+DTSTART;TZID=+00:00:20200725T150000
+DTEND;TZID=+00:00:20200725T153000
+DESCRIPTION:Salon name: Sarathe Haircut \n\nSalon address: 213/1 Hathai kheda road anand nagar bhopal \n\nSalon phone: 9098923194 \n\nSalon email: adarshkushwaha296@gmail.com \n\nBooked services:\nShaving: 3:00pm ➝ 3:00pm\nHaircut: 3:00pm ➝ 3:00pm\n\nBooking notes:\nNone\n\nBooking status: Confirmed
+LOCATION:213/1 Hathai kheda road anand nagar bhopal
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+UID:8cc60cbf614b7a4eaf58662b2d20ffad
+SUMMARY:HAIRCUT - 27 Jul 2020 10:00
+DTSTART;TZID=+00:00:20200727T100000
+DTEND;TZID=+00:00:20200727T110000
+DESCRIPTION:Salon name: HAIRCUT \n\nSalon address: Main Street 123 \n\nSalon phone: 755522xxxx \n\nSalon email: adarshkushwaha296@gmail.com \n\nBooked services:\nTrim: 10:00 ➝ 10:00\nMassage: 10:00 ➝ 10:00\n\nBooking notes:\nNone\n\nBooking status: Confirmed
+LOCATION:Main Street 123
+END:VEVENT
+END:VCALENDAR
